@@ -15,7 +15,7 @@ export default function Home() {
           data-testid="week-0-line"
           className="bg-secondary text-secondary-foreground rounded-lg px-4 py-2"
         >
-          Week 0 check-in: Hello from Copper State Labs!
+          Week 0 check-in: Hi Luis here, I am pumped for the agentic workflow section and I plan to implement what I learn here into my AI startup.
         </p>
       </main>
       <SiteFooter />
